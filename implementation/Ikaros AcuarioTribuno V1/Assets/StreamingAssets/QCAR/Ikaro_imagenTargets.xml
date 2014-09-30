@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="imagenTarget_Sentinel" size="1680.000000 1184.000000" />
+    <ImageTarget name="imagenTarget_Morrigan" size="1599.000000 1118.000000" />
+    <ImageTarget name="imagenTarget_GokuSSJ3" size="1280.000000 1835.000000" />
+    <ImageTarget name="imagenTarget_Mai" size="1000.000000 1414.000000" />
+    <ImageTarget name="imagenTarget_Bowser" size="1280.000000 916.000000" />
+  </Tracking>
+</QCARConfig>
