@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{8C0DDBC2-A624-E330-82E2-F4088FFB46BF}</ProjectGuid>
+	<ProjectGuid>{8024BF61-3157-F2D6-7974-33351DE1DA15}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -64,11 +64,9 @@
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\DepthMask.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\StreamingAssets\QCAR\unity.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\pruebas01.xml" />
-     <None Include="Assets\StreamingAssets\QCAR\mai.xml" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Sources\Shaders\FX-Water.shader" />
-     <None Include="Assets\StreamingAssets\QCAR\Ikaro_imagenTargets.xml" />
      <None Include="Assets\StreamingAssets\QCAR\LogoGas.xml" />
+     <None Include="Assets\StreamingAssets\QCAR\TargetPez.xml" />
      <None Include="Assets\Qualcomm Augmented Reality\Shaders\BrightTexture.shader" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Standard Assets\Water (Pro Only)\Water4\Sources\Shaders\FX-Water4.shader" />
